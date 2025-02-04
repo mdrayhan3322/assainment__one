@@ -1,0 +1,297 @@
+*{
+    border:0;
+    padding:0;
+   
+}
+p{
+    font-size: 25px;
+    font-weight: 10px;
+}
+h1{
+    font-size:40px;
+}
+.main{
+/* margin-left:100px;
+margin-right:100px; */
+/* text-align:center; */
+background-color:rgb(255, 255, 254);
+}
+
+.tather-of-banner{
+    background-color:rgba(86, 238, 177, 0.804);
+    display:flex;
+    /* height:550px;
+    width:1550px; */
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius:20px;
+    text-align:center;
+ 
+}
+.banner-h3{
+    color:rgb(200, 141, 141);
+}
+.banner-div-1{
+    margin-left: 80px;
+    margin-top: 120px;
+    gap:20px;
+    font-size: 20px;
+    font-weight:10px ;
+    color:rgb(40, 66, 88);
+
+}
+.button{
+  
+    padding:30PX;
+    font-size: 18px;
+    background-color:tomato;
+    border-radius: 50px;
+    color:rgb(255, 255, 255);
+}
+.button:hover{
+    background-color:green;
+}
+.banner-div-img
+{
+    margin-left:130px;
+    margin-top: 50px;
+    margin-bottom:40px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* section -- 2 ------------------------------------------ start */
+
+.section_2_{
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius:5px;
+    padding:10px;
+    margin-top:10px;
+
+}
+.caird_box{
+    display:flex;
+    gap:9px;
+   
+}
+.caird_box_1{
+    background-color:cadetblue;
+    gap:10px;
+    padding:20px;
+    border-radius:30px;
+}
+.box_button_1{
+    background-color:tomato;
+    border-radius:40px;
+    padding:20px;
+    text-align:center;
+    font-size:20px;
+    color:white;
+}
+.box_button_1:hover{
+    background-color:green;
+}
+
+
+.caird_box_2 {
+    background-color:rgb(71, 230, 255);
+    gap:10px;
+    padding:20px;
+    border-radius:30px;
+ 
+}
+.box_button_2{
+    background-color:tomato;
+    color:white;
+    border-radius:40px;
+    padding:20px;
+    text-align:center;
+    font-size:20px;
+}
+.box_button_2:hover{
+    background-color:green;
+}
+.caird_box_3{
+    background-color:aquamarine;
+    gap:10px;
+    padding:20px;
+    border-radius: 30px;
+ 
+}
+.box_button_3{
+    background-color:tomato;
+    color:rgb(245, 245, 245);
+    border-radius:40px;
+    padding:20px;
+    text-align:center;
+    font-size: 20px;
+}
+.box_button_3:hover{
+    background-color:green;
+}
+
+/* --------- section 2  --------------------------------------end */
+
+
+
+/* section -- 3 ------------------ stairt   */
+.section_3_{
+    margin-left:120px;
+    margin-right:120px;
+    padding:10px;
+   
+}
+
+.satelilte_img {
+    border-radius:20px;
+  
+}
+
+.section_3_caird{
+ 
+    display:flex;
+    background-color: antiquewhite;
+    border-radius:30px;
+    padding:50px;
+}
+
+.text{
+    display:table-column;
+    padding:30px;
+    margin-left:100px;
+}
+.satelilte_img_copy {
+    border-radius:20px;
+}
+
+.section_3_caird_copy{
+ 
+    display:flex;
+    background-color: antiquewhite;
+    border-radius:30px;
+    padding:50px;
+    margin-top:10px;
+}
+.text_copy{
+    display:table-column;
+    padding:30px;
+    margin-right: 100px;
+
+}
+.box_button_3_copy{
+    background-color:tomato;
+    color:rgb(245, 245, 245);
+    border-radius:40px;
+    padding:20px;
+    text-align:center;
+    font-size: 20px;
+}
+.box_button_3_copy:hover{
+    background-color:green;
+}
+
+
+
+/* section -- 3 ------------------ end      */
+
+/* section -- 4 -------------------  start ---- */
+.section_4{
+    margin-left: 120px;
+    margin-right: 120px;
+    padding:10px;
+
+}
+.donate{
+    text-align:center;
+
+}
+.caird_box_parent{
+    display:flex;
+    gap: 200px;
+
+}
+.caird_box_seldren{
+    background-color:bisque;
+    border-radius:20px;
+    text-align: center;
+    width:200px;
+}
+.caird_box_color{
+    background-color:bisque;
+    border-radius: 20px;
+    width:200px;
+    text-align:center;
+}
+.caird_box_color:hover{
+    background-color: green;
+}
+
+.input{
+    width:1200px;
+    height:60px;
+    font-size:30px;
+    /* text-align:center; */
+    padding-left: 50px;
+    margin-top:15px;
+    background-color: beige;
+    border-radius: 10px;
+}
+.done_now_button{
+    background-color: tomato;
+    color:aliceblue;
+    text-align:center;
+    width:150px;
+    height:80px;
+    border-radius:20px;
+    margin-top: 30px;
+    margin-left:700px;
+    
+}
+.done_now_button:hover{
+    background-color:green;
+}
+
+/* section -- 4 -------------------  end ---- */
+
+/* section -- 5 ---------------------- start  */
+.section_5{
+    margin-left:120px;
+    margin-right:120px;
+    margin-top:10px;
+    background-color:#1db093b9;
+    border-radius:30px;
+    text-align:center;
+    padding:30px;
+}
+.form{
+    display:flex;
+    gap:0px;
+    padding:8px;
+    margin-left:400px;
+  
+}
+
+.input-1{
+    width:400px;
+    height:80px;
+    padding-left: 50px;
+    margin-left:-120px;
+    border-radius:20px 0 0 20px;
+    font-size: 15px;
+
+}
+.subscribe_button{  
+    gap:0;
+    width:200px;
+    height:80px;
+    background-color:tomato;
+    color:aliceblue;
+    border-radius:0 20px 20px 0;
+}
+.subscribe_button:hover{
+    background-color:green;
+}
+/* section -- 5 ---------------------- endl   */
+
